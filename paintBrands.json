@@ -1,18 +1,20 @@
-[
-  {
-    "name": "Citadel",
-    "imageString": "citadel"
-  },
-  {
-    "name": "Pro Acryl",
-    "imageString": "proAcryl"
-  },
-  {
-    "name": "Model Color",
-    "imageString": "modelColor"
-  },
-  {
-    "name": "Game Color",
-    "imageString": "gameColor"
-  }
-]
+{
+  "brands": [
+    {
+      "name": "Citadel",
+      "imageString": "citadel"
+    },
+    {
+      "name": "Pro Acryl",
+      "imageString": "proAcryl"
+    },
+    {
+      "name": "Model Color",
+      "imageString": "modelColor"
+    },
+    {
+      "name": "Game Color",
+      "imageString": "gameColor"
+    }
+  ]
+}
