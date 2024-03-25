@@ -1,4 +1,5 @@
-[
+{
+  [
   {name: "Citadel",
   imageString: "citadel"},
   {name: "Pro Acryl",
@@ -7,4 +8,5 @@
   imageString: "modelColor"},
   {name: "Game Color",
   imageString: "gameColor"}
-]
+  ]
+}
